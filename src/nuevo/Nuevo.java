@@ -18,6 +18,7 @@ public class Nuevo {
         System.out.println("nuevo master");
         System.out.println("nuevo master1");
         System.out.println("nuevo d1");
+        System.out.println("nuevo 2 d1");
     }
     
 }
