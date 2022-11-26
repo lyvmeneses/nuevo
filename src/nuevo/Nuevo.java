@@ -16,6 +16,7 @@ public class Nuevo {
      */
     public static void main(String[] args) {
         System.out.println("nuevo master");
+        System.out.println("nuevo master1");
     }
     
 }
